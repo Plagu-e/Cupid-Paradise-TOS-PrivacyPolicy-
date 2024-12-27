@@ -1,0 +1,66 @@
+Privacy Policy for Cupid Paradise
+
+Last Updated: [27/12/2024]
+
+Your privacy is important to us. This Privacy Policy explains how Cupid Paradise ("the bot") collects, uses, and safeguards user data. By using the bot, you agree to the terms outlined below. If you do not agree with this policy, please refrain from using the bot.
+
+1. Information We Collect
+Cupid Paradise may collect and process the following types of data:
+
+1.1. Discord User Data
+User IDs: Unique identifiers assigned by Discord to manage gameplay and features (e.g., saving progress, card collections).
+
+Server IDs: Used to apply bot configurations specific to individual servers.
+
+Message Content: Temporarily processed for command execution (e.g., game inputs). Message content **is not stored**.
+
+1.2. Gameplay Data
+Game-specific data such as card collections, rankings, and statistics related to the anime card game.
+
+1.3. Optional Data
+Data provided voluntarily for premium features or in-game purchases, such as transaction records (no financial information is stored directly by the bot).
+
+2. How We Use Your Data
+Collected data is used to:
+
+Operate and improve the bot's core functionality, such as game mechanics and leaderboards.
+Personalize gameplay experiences (e.g., saving user progress).
+Debug and resolve technical issues affecting the bot.
+Manage premium features or in-game purchases (if applicable).
+
+3. Data Retention
+User and server data are retained only as long as necessary for the bot's operation. If a user leaves a server or requests data deletion, their data will be removed within [3 working days].
+Temporary data (e.g., command messages) is not stored and is discarded immediately after processing.
+
+4. Data Sharing
+Cupid Paradise does not sell, share, or disclose user data to third parties except:
+
+With Discord: As required to provide functionality through Discord's API.
+With Payment Processors: For managing premium features or purchases (if applicable).
+
+5. Data Security
+We take appropriate measures to safeguard user data, including:
+
+Securing servers where data is stored.
+Regularly updating the bot to fix vulnerabilities.
+Limiting access to sensitive data to authorized personnel only.
+While we strive to protect user data, no method of transmission or storage is 100% secure. Use the bot at your own discretion.
+
+6. Your Rights
+You have the following rights regarding your data:
+
+Access Your Data: Request a summary of data associated with your Discord ID.
+Request Deletion: Request the deletion of your user data by contacting us (see Section 8).
+Opt Out: Stop using the bot if you do not agree with this Privacy Policy.
+
+7. Children’s Privacy
+Cupid Paradise is not intended for children under the age of 13. If we learn that we have collected data from a user under 13, we will delete it promptly.
+
+8. Changes to This Policy
+We reserve the right to update this Privacy Policy at any time. Changes will be announced on the bot's official Discord server or other communication channels. Continued use of the bot after changes are made constitutes acceptance of the new policy.
+
+9. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy, please reach out to us via:
+
+The official Cupid Paradise Discord server: [https://discord.gg/ZbXK9rmy4g]
+By using Cupid Paradise, you acknowledge that you have read, understood, and agree to this Privacy Policy.
